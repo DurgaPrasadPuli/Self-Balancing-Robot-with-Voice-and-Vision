@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+capture.jpg
+response.mp3
+response.wav
+.DS_Store

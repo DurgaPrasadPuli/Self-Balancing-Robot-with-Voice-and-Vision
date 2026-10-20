@@ -1,0 +1,7 @@
+SpeechRecognition>=3.10
+PyAudio>=0.2.13
+pyserial>=3.5
+python-dotenv>=1.0
+openai>=1.0
+elevenlabs>=1.0
+# picamera2 comes from apt on Raspberry Pi OS: sudo apt install python3-picamera2
